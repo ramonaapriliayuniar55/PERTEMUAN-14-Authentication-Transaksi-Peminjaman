@@ -1,4 +1,4 @@
-# Tugas Pertemuan 14 - 
+# Tugas Pertemuan 14 - Authentication & Transaksi Peminjaman
 
 ---
 
@@ -7,6 +7,8 @@
 **Prodi:** Informatika  
 **Semester:** 4  
 **Mata Kuliah:** Pemrograman Web II
+**Link Repository:** [https://github.com/ramonaapriliayuniar55/PERTEMUAN-14-Authentication-Transaksi-Peminjaman.git]
+
 
 
 ---
