@@ -7,12 +7,12 @@
     <style>
         body { 
             background-color: #fff; 
-            font-family: "Times New Roman", Times, serif; /* Font standar dokumen formal */
+            font-family: "Times New Roman", Times, serif; 
             color: #000;
             line-height: 1.2;
         }
         .line-double {
-            border-top: 4px double #000; /* Garis kop surat khas dokumen dinas */
+            border-top: 4px double #000; 
             margin-top: 5px;
             margin-bottom: 20px;
         }
@@ -20,7 +20,7 @@
             border-color: #000 !important;
         }
         .table th {
-            background-color: #f2f2f2 !important; /* Warna abu-abu formal standar */
+            background-color: #f2f2f2 !important; 
             color: #000 !important;
             font-weight: bold;
             text-align: center;
@@ -40,7 +40,7 @@
             font-size: 14px;
         }
         .ttd-space {
-            height: 80px; /* Space untuk tanda tangan fisik */
+            height: 80px; 
         }
         @media print { 
             .no-print { display: none; } 
