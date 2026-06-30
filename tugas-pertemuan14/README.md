@@ -17,7 +17,7 @@
 
 ## 1. View Detail Transaksi dengan Button "Kembalikan Buku"
 
-Halaman detail transaksi menyediakan tombol **Kembalikan Buku** untuk memproses pengembalian buku.
+Halaman detail transaksi menyediakan tombol *Kembalikan Buku* untuk memproses pengembalian buku.
 
 ### Screenshot
 
@@ -95,6 +95,8 @@ Halaman laporan menampilkan:
 - Tabel transaksi
 - Total transaksi
 - Total denda
+
+![](./screenshots/laporantransaksi.png)
 
 ---
 
